@@ -19,3 +19,9 @@ Pillow Library (PIL) : A python library to perform image processing functionalit
   <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/9c9e15b6-69ef-4d8d-a678-0f4a76da675c">
   <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/8d77a487-b03e-4500-aeb3-779534bc5ec6">
 </p>
+
+<H1><B>Colormap to R,G,B channel</B></H1>
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/0cf4b6d9-390d-4155-a15d-8eaee49da9a8">
+  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/338afcaa-c3e9-4786-8720-21bf281dd552">
+</p>
