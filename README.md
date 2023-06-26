@@ -3,7 +3,7 @@
 ---
 Pillow Library (PIL) : A python library to perform image processing functionalities.
 
-<H1><B>Color to Grayscale images</B></H1>
+<H1><B>Original to Grayscale images</B></H1>
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/6a3b9f94-76da-40bd-9402-e5952b635257">
 </p>
