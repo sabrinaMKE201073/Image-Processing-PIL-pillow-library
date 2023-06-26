@@ -14,3 +14,8 @@ Pillow Library (PIL) : A python library to perform image processing functionalit
   <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/27085184-239a-4598-a5c4-e59028d77494">
 </p>
 
+<H1><B>Numpy slicing</B></H1>
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/9c9e15b6-69ef-4d8d-a678-0f4a76da675c">
+  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/8d77a487-b03e-4500-aeb3-779534bc5ec6">
+</p>
